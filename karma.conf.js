@@ -15,7 +15,7 @@ module.exports = function (config) {
 
         // list of files / patterns to load in the browser
         //files: [
-        //    'ES6/**/*.spec.js'
+        //    ''
         //],
 
 
@@ -74,8 +74,7 @@ module.exports = function (config) {
                 //'jspm_packages/npm/babel-core@5.6.14/index.js',
                 //'jspm_packages/npm/babel-runtime@5.6.14/index.js',
                 'jspm_packages/npm/core-js@0.9.18.js',
-                'ES2015/**/*.spec.js',
-                'ES2016/**/*.spec.js'
+                'Tests/**/*.spec.*'
             ]
         }
     })

@@ -17,10 +17,10 @@ System.config({
 
 System.config({
   "map": {
-    "myStuff":"npm:babel-core@5.6.14",
     "babel": "npm:babel-core@5.6.14",
     "babel-runtime": "npm:babel-runtime@5.6.14",
     "core-js": "npm:core-js@0.9.18",
+    "myStuff": "npm:babel-core@5.6.14",
     "github:jspm/nodelibs-process@0.1.1": {
       "process": "npm:process@0.10.1"
     },
