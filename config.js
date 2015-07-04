@@ -5,6 +5,7 @@ System.config({
     "optional": [
       "es7.decorators",
       "es7.classProperties",
+      "es7.asyncFunctions",
       "runtime"
     ]
   },

@@ -74,7 +74,7 @@ module.exports = function (config) {
                 //'jspm_packages/npm/babel-core@5.6.14/index.js',
                 //'jspm_packages/npm/babel-runtime@5.6.14/index.js',
                 'jspm_packages/npm/core-js@0.9.18.js',
-                'Tests/**/*.spec.*'
+                'Tests/**/*.spec.js'
             ]
         }
     })
